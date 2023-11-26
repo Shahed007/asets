@@ -1,24 +1,26 @@
-{
-  "publisher_name": "WAN IFRA",
-  "publisher_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/WAN-IFRA_logo.svg/1200px-WAN-IFRA_logo.svg.png"
-},
-{
-  "publisher_name": "NNPA",
-  "publisher_logo": "https://i0.wp.com/nnpa.org/wp-content/uploads/2019/08/NNPA-VECTOR-LOGO.png?resize=1076%2C1241&ssl=1"
-},
-{
-  "publisher_name": "NATIONAL WORLD",
-  "publisher_logo": "https://pq-static-content.proquest.com/shared/images/publication/45313.png"
-},
-{
-  "publisher_name": "NEWS PIECE",
-  "publisher_logo": "https://www.brandbucket.com/sites/default/files/logo_uploads/444111/large_newspiece.png"
-},
-{
-  "publisher_name": "NEWS PLEASE",
-  "publisher_logo": "https://www.brandbucket.com/sites/default/files/logo_uploads/413224/large_newsplease.png"
-},
-{
-  "publisher_name": "LION",
-  "publisher_logo": "https://www.lionpublishers.com/wp-content/uploads/2021/08/Lion_Publishers_logo-3.png"
-}
+[
+  {
+    "publisher_name": "WAN IFRA",
+    "publisher_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/WAN-IFRA_logo.svg/1200px-WAN-IFRA_logo.svg.png"
+  },
+  {
+    "publisher_name": "NNPA",
+    "publisher_logo": "https://i0.wp.com/nnpa.org/wp-content/uploads/2019/08/NNPA-VECTOR-LOGO.png?resize=1076%2C1241&ssl=1"
+  },
+  {
+    "publisher_name": "NATIONAL WORLD",
+    "publisher_logo": "https://pq-static-content.proquest.com/shared/images/publication/45313.png"
+  },
+  {
+    "publisher_name": "NEWS PIECE",
+    "publisher_logo": "https://www.brandbucket.com/sites/default/files/logo_uploads/444111/large_newspiece.png"
+  },
+  {
+    "publisher_name": "NEWS PLEASE",
+    "publisher_logo": "https://www.brandbucket.com/sites/default/files/logo_uploads/413224/large_newsplease.png"
+  },
+  {
+    "publisher_name": "LION",
+    "publisher_logo": "https://www.lionpublishers.com/wp-content/uploads/2021/08/Lion_Publishers_logo-3.png"
+  }
+]
