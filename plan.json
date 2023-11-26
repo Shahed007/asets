@@ -1,0 +1,38 @@
+[
+  {
+    "plan_name": "Free For 1 Month",
+    "price":"free",
+    "days": "for 1 motnth",
+    "features": [
+      "Access to daily news articles",
+      "Limited premium content",
+      "Email newsletters",
+      "Renews automatically, cancel anytime."
+    ],
+    "terms_text": "Free for 1 month, then $10.99 per month after. Offer only available if you haven't tried Premimum before. Terms apply"
+  },
+  {
+    "plan_name": "Premium Duo",
+    "price": 14.99,
+    "days": "per month",
+    "features": [
+      "Full access to all premium content",
+      "Ad-free browsing experience",
+      "Exclusive interviews and insights",
+      "Renews automatically, cancel anytime."
+    ],
+    "terms_text": "For couples who reside at the same address. Terms apply"
+  },
+  {
+    "plan_name": "Premium Family",
+    "price": 16.99,
+    "days": "per month",
+    "features": [
+      "Unlimited access to all content",
+      "Early access to breaking news",
+      "Personalized news recommendations",
+      "Renews automatically, cancel anytime."
+    ],
+    "terms_text": "For up to 6 family members residing at the same address Terms apply"
+  }
+]
