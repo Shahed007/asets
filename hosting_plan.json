@@ -4,12 +4,12 @@
     "description": "Everything you need to create your website",
     "price": 300,
     "main_features": [
-      { "storage": ["1000 MB", "SSD Shared"] },
-      { "bandWidth": ["1000 MB", "Bandwidth Monthly"] },
-      { "support": ["24/7", "Support"] },
-      { "email": "Unlimited Email Address" },
-      { "ssl": "Free SSL Certificate" },
-      { "freeDomain": "Free Domain ($9.99 value)" }
+      "**1000 MB** SSD Shared",
+      "**1000 MB** Bandwidth Monthly",
+      "**24/7** Support",
+       "Unlimited Email Address",
+       "**Free** SSL Certificate",
+      "**Free** Domain ($9.99 value)" 
     ]
   },
   {
@@ -17,12 +17,12 @@
     "description": "Custom Plans for Making Money",
     "price": 4000,
     "main_features": [
-      { "storage": ["40 GB", "Disk Space"] },
-      { "domain": "Unlimited Domains" },
-      { "dataTransfer": ["500 GB", "Data Transfer"] },
-      { "support": ["24/7", "Support"] },
-      { "security": "Free CDN & Security" },
-      { "dataBase": "Unlimited MySQL Database" }
+      "**40 GB** Disk Space",
+      "Unlimited Domains",
+     "**500 GB** Data Transfer",
+      "**24/7** Support",
+      "**Free** CDN & Security",
+      "Unlimited MySQL Database" 
     ]
   },
   {
@@ -30,14 +30,14 @@
     "description": "Custom Plans for Making Money",
     "price": 550,
     "main_features": [
-      { "storage": ["5 GB", "Wordpress hosting"] },
-      { "bandWidth": ["5000 MB", "Bandwidth Monthly"] },
-      { "support": ["24/7", "Support"] },
-      { "email": "Unlimited Email Address" },
-      { "ssl": "Free SSL Certificate" },
-      { "freeDomain": "Free Domain ($9.99 value)" },
-      { "security": ["Free", "1-click WordPress Installation"] },
-      { "speed": "WordPress Acceleration (LiteSpeed)" }
+      "**5 GB** Wordpress hosting",
+      "**5000 GB** MBBandwidth Monthly",
+      "**24/7** Support",
+      "Unlimited Email Address",
+      "**Free** SSL Certificate",
+      "**Free** Domain ($9.99 value)",
+      "**Free** 1-click WordPress Installation",
+      "WordPress Acceleration (LiteSpeed)"
     ]
   }
 ]
